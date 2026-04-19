@@ -50,13 +50,13 @@
 <h3 align="center">Database Management</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb,aws" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,dynamodb" />
   </a>
 </p>
 
 <h3 align="center">Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jquery,sklearn" height="45" />
+  <img src="https://skillicons.dev/icons?i=jquery,sklearn,regex" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" />
