@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 * 🇲🇽 **Mexican**
-* 🎓 **Software Development Engineering** student at **Universidad Tecmilenio**.
+* 🎓 **Software Development Engineering** student at **Universidad Tecmilenio Ferrería, México🇲🇽**.
 
 ### 👻 Specialization
 * 💻 **Software Development**
@@ -36,15 +36,13 @@
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,php,swift,kotlin,java,r,js,html,css,md,bash" height="45" />
+  <img src="https://skillicons.dev/icons?i=py,cs,php,swift,kotlin,java,r,js" height="45" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="40" />
 </p>
 
-<h3 align="center">Front end & Back end</h3>
+<h3 align="center">Web Development</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,laravel,bootstrap" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,dotnet,laravel" height="45" />
 </p>
 
 <h3 align="center">Database Management</h3>
@@ -56,7 +54,6 @@
 
 <h3 align="center">Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jquery,sklearn,regex" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" />
@@ -79,9 +76,10 @@
 
 <h3 align="center">IDEs & Editors</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,pycharm,vim" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,vim" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nano/nano-original.svg" height="45" alt="Nano" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/xcode.png" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="45" alt="NetBeans" />
   <img src="https://cdn.simpleicons.org/spyderide/FF0000" height="42" alt="Spyder" />
   <img src="https://cdn.simpleicons.org/jupyter/F37626" height="45" alt="Jupyter" />
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="45" alt="Google Colab" />
@@ -89,7 +87,9 @@
 
 <h3 align="center">Tools & Utilities</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,figma,aws,azure" height="45" />
+  <img src="https://skillicons.dev/icons?i=regex" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker,md,bash,kubernetes,postman,figma,aws,azure" height="45" />
+  <img src="https://cdn.simpleicons.org/yaml/white" height="45" alt="YAML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="Anaconda" />
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" height="45" alt="VirtualBox" />
   <img src="https://img.icons8.com/color/144/xampp.png" height="45" alt="XAMPP" />
