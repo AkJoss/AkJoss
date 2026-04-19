@@ -1,4 +1,4 @@
-# Hi everyone 👋, I'm José Alberto Rocha Munguía
+# Hi everyone 👋🏼, I'm José Alberto Rocha Munguía
 
 ### 👨🏻‍💻 About Me
 * 🇲🇽 **Mexican**
@@ -66,9 +66,8 @@
 
 <h3 align="center">Operating Systems</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,debian" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,debian" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="Android" />
 </p>
 
 <h3 align="center">Version Control & CI/CD</h3>
