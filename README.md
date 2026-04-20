@@ -87,9 +87,10 @@
 
 <h3 align="center">Tools & Utilities</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=regex" height="45" />
-  <img src="https://skillicons.dev/icons?i=docker,md,bash,kubernetes,postman,figma,aws,azure" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,postman,figma,aws,azure" height="45" />
   <img src="https://cdn.simpleicons.org/yaml/white" height="45" alt="YAML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="45" alt="Hadoop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="45" alt="Spark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45" alt="Anaconda" />
   <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" height="45" alt="VirtualBox" />
   <img src="https://img.icons8.com/color/144/xampp.png" height="45" alt="XAMPP" />
